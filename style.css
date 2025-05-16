@@ -1,0 +1,17 @@
+h1{
+    color:black;
+    font-size:50px;
+   
+
+}
+h2{
+        color: white;
+        font-size: 30px;
+}
+body{
+    background-image:linear-gradient(to right,rgb(252, 43, 43), blue)
+}
+.one:hover{
+    transition: 1s;
+    transform: scale(1.1,1.1);
+}
